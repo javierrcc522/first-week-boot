@@ -1,16 +1,16 @@
-# _Resume_
+# _Epic Week_
 
 #### By _**Javier Jimenez**_
 
 ## Description
 
-_A websitr where I talk about my experience at Epicodus_
+_A website where I talk about my experience at Epicodus_
 
 ![Screenshot](/img/pic1.png)
 
 ## Setup/Installation Requirements
 
-* _Clone the repository [here](https://github.com/javierrcc522/first-week-boot.git)_
+* _Clone the repository [here](https://github.com/javierrcc522/first-week-epic.git)_
 * _open folder_
 * _click on index.html_
 * _enjoy_
